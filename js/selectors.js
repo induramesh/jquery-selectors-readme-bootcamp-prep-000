@@ -1,5 +1,5 @@
 // declare your functions here...
-function paragraphSelector () {
+function paragraphSelector() {
   var p = $('p')
   return p 
 }
@@ -9,4 +9,5 @@ function lastImageSelector() {
   return i 
 }
 
+function ninjaBabySelector() {
 $('.pics')
