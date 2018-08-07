@@ -15,5 +15,6 @@ return bb
 }
 
 function divSelector() {
-  i
+  var pic = $('.pics')
+  return pic
 }
