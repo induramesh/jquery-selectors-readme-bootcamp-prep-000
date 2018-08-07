@@ -10,4 +10,4 @@ function lastImageSelector() {
 }
 
 function ninjaBabySelector() {
-$('.pics')
+$("img[alt='the beatles making faces']")
