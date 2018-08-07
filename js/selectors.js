@@ -10,4 +10,6 @@ function lastImageSelector() {
 }
 
 function ninjaBabySelector() {
-$("img[alt='the beatles making faces']")
+var bb = $("img[id='baby-ninja']")
+return bb
+}
