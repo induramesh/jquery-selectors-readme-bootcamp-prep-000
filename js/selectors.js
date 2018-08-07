@@ -8,3 +8,5 @@ function lastImageSelector() {
   var i = $('img:last')
   return i 
 }
+
+$('.pics')
