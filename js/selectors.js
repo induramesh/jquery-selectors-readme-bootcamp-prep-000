@@ -3,3 +3,8 @@ function paragraphSelector () {
   var p = $('p')
   return p 
 }
+
+function paragraphSelector () {
+  var p = $('p')
+  return p 
+}
